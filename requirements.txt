@@ -1,0 +1,7 @@
+opencv-python
+numpy
+scipy
+matplotlib
+padlepadle==3.0.0b1
+paddleocr
+
