@@ -6,7 +6,7 @@
 
 通过简单的AHK程序自动每隔一分钟刷新，全程录屏直播
 
-原视频（TODO）：
+原视频: [从mega下载](https://mega.nz/file/ep1hSCCC#SMeQ6HCXp7IYAamDR5eLvUKLvVHWW1tDSfoSz_jFljg)
 
 ## 数据处理
 
